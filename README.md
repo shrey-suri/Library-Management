@@ -1,2 +1,15 @@
-# Library-Management
-A library management software where admin can add/view/delete librarian and librarian can add/view books, issue, view issued books and return books.
+# Library Management System
+
+***Language:*** Java
+***Library:*** Java Swing, Applet
+***Database:*** Microsoft Access
+
+***Summary:***
+A fully functional Library Management System with User Defined Passwords for Admin and Librarians. Other Features include:
+ 🔹 Admin:
+ - Add / View / Delete a Librarian
+ 🔹 Librarian
+ - Add / View / Issue Books
+ - View Issued Books
+ - Return Books
+
