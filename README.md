@@ -6,10 +6,10 @@
 
 ***Summary:*** <br />
 A fully functional Library Management System with User Defined Passwords for Admin and Librarians. Other Features include: <br />
- 🔹 Admin:
- - Add / View / Delete a Librarian
- 🔹 Librarian
- - Add / View / Issue Books
- - View Issued Books
- - Return Books
+ - Admin:
+  - Add / View / Delete a Librarian
+ - Librarian
+  - Add / View / Issue Books
+  - View Issued Books
+  - Return Books
 
